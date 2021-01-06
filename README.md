@@ -12,3 +12,6 @@ Partenaire : Guillaume Blain
 
 ## Représentation
 
+Description de l'évènement.
+
+![alt text](https://github.com/TritzA/HackathonReadyForAi2020/blob/master/classement/evenement.PNG)
