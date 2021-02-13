@@ -1,4 +1,4 @@
-# ConcoursDeplaceDeLair2020
+# Concours-Deplace-De-Lair-2020
 
 Coucours Déplace de l'air à Poly (6e place sur plus de 60).
 
